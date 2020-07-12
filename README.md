@@ -1,7 +1,7 @@
 # Minecraftserver
 Here is preconfigured Minecraft server running on Ubuntu with latest update. 
 
-Download the Zip file(once its available).
+Download the Zip file using link: https://mega.nz/file/eSoVBbwR
 
 Extract to your desired location.
 
